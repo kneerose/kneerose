@@ -1,4 +1,4 @@
-- 👋 Hi! I'm Niraj, an electronics engineer with a passion for coding.
+- 👋 Hi! I'm Niraj, a Software Engineer
 - I've honed my programming skills through structured learning and self-teaching.
 - Let's combine innovation with coding and user-centric design
 
